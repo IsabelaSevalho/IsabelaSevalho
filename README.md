@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de licenc</p>
+<p align="left">Estudante do 2º período de Licenciatura em Computação na Universidade do Estado do Amazonas (UEA) e Técnica em Informática pelo Instituto de Educação, Ciência e Tecnologia do Amazonas (IFAM), tenho interesse em desenvolvimento back-end e tecnologias educacionais.</p>
 
 ###
 
