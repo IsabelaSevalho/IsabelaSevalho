@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓​ Técnica em Informática pelo IFAM - Campus Manaus Centro;<br>📚 Atualmente cursando Licenciatura em Computação na Escola Superior de Tecnologia da  UEA;<br>🎯 Tenho experiência em desenvolvimento android utilizando Android Studio, MySQL e VSCode;<br>🖥️​ Estudando Python, C# e desenvolvimento de jogos com Unity e realidade virtual.</p>
+<p align="left">🎓​ Técnica em Informática pelo IFAM - Campus Manaus Centro;<br>📚 Cursando Licenciatura em Computação na Escola Superior de Tecnologia da  UEA;<br>🎯 Tenho experiência em desenvolvimento android utilizando Android Studio, MySQL e VSCode;<br>🖥️​ Estudando Python, C# e desenvolvimento de jogos com Unity e realidade virtual;<br>🔍​ Atualmente extensionista no ThinkTEd Lab.</p>
 
 ###
 
